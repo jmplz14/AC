@@ -1,0 +1,2 @@
+# AC(Arquitectura de Computadores)
+Asignatura de la universidad de granada con los siguientes contenidos: Estructura y clasificación de arquitecturas paralelas (procesadores, multiprocesadores, multicomputadores y sistemas distribuidos). Clasificación del paralelismo de una aplicación. Arquitecturas con paralelismo a nivel de instrucción (ILP). Programación eficiente de ILP (mecanismos y algoritmos básicos de optimización de código).Arquitecturas multihebra, multinúcleo y multiprocesadores. Programación paralela. Evaluación de prestaciones.
